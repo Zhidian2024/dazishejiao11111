@@ -29,5 +29,8 @@ APP、小程序、H5均支持
 ![15](https://github.com/user-attachments/assets/0e995e88-e74f-433c-a732-a961d07619a6)
 ![16](https://github.com/user-attachments/assets/a5dd89e2-981f-481c-883f-316acf4073cb)
 ![17](https://github.com/user-attachments/assets/0bb94804-651f-4b64-af13-5bb7f7714fc4)
-![xiaomage](https://github.com/user-attachments/assets/8fd0633c-09a6-40f9-8a96-e6cd69f8db92)
+
+#### 有兴趣，加V，备注：来源和项目名称
+![lianxi](https://github.com/user-attachments/assets/d80b717e-0d2e-4274-9840-e367e31229a4)
+
 
